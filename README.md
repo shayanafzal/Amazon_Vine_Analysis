@@ -18,5 +18,7 @@ Once the data was gathered, it was analyzed to determine if there is any bias to
 
 ## Summary
 From the results above it is evident that out of the data set of books sold by amazon, 41.6% of the reviews posted by members of the Amazon Vine program are 5 star reviews. 
-Where was 46.1% of the reviews posted by non vine members are 5 star reviews.  
+Where was 46.1% of the reviews posted by non vine members are 5 star reviews. 
+
+In light of the data that we have, we can conlude that the members of the Amazon Vine program do not have a bias when giving out 5 Star reveiws for the books that they are reviewing as the total percentage of 5 Star reveiws left by members of the Amazon Vine program is lower than the total percetange of 5 star reviews left by those that are not members of the Amazon Vine program.
 

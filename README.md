@@ -10,7 +10,9 @@ Once the data was gathered, it was analyzed to determine if there is any bias to
 
 ## Deliverables
 [Deliverable 1 Coding](https://github.com/shayanafzal/Amazon_Vine_Analysis/blob/75568f4b1dbae57415b24c77885eae99f387c560/Amazon_Reviews_ETL.ipynb)
+
 [Deliverable 1 PgAdmin Coding and Data Tables Screen Shots](https://github.com/shayanafzal/Amazon_Vine_Analysis/tree/main/Resources)
+
 [Deliverable 2 Coding](https://github.com/shayanafzal/Amazon_Vine_Analysis/blob/75568f4b1dbae57415b24c77885eae99f387c560/Vine_Review_Analysis.ipynb)
 
 

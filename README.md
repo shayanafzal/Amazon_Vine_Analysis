@@ -30,3 +30,5 @@ Where was 46.1% of the reviews posted by non vine members are 5 star reviews.
 
 In light of the data that we have, we can conlude that the members of the Amazon Vine program do not have a bias when giving out 5 Star reveiws for the books that they are reviewing as the total percentage of 5 Star reveiws left by members of the Amazon Vine program is lower than the total percetange of 5 star reviews left by those that are not members of the Amazon Vine program.
 
+A futher recommendation would be to look into the total of number of 1 star reviews that are left by member of the Amazon Vine program. It could be that the members are only being sent the best books to review. Hence, looking into 1 star reviews would help determine if there is any systematic bias in the quality of the books that the Amazon Vine members are being asked to post reviews for. 
+
